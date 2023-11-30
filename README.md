@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chopanga91
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++ and juce
-- 💞️ I’m looking to collaborate on audio vst and tools
+- 🌱 I’m currently learning c++ and java
 - 📫 How to reach me panchogarat56@gmail.com
 
 <!---
