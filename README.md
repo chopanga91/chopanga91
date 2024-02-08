@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chopanga91
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++ and java
+- 👋 Hi, I’m Francisco Garat
+- 👀 I’m interested in programming in Java, Spring, WebDevelopment
+- 🌱 I’m currently learning React
 - 📫 How to reach me panchogarat56@gmail.com
 
 <!---
